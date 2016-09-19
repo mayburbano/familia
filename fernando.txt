@@ -5,3 +5,6 @@ telefono: 3136450991
 Estado cuvil: Casado
 Dirección recidencia: Leiva nariño.
 Profesión: Docente
+
+------------------------------------------
+El es mi padre, actualmente es docente y sastre.
