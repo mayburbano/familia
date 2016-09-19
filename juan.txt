@@ -1,0 +1,7 @@
+Datos basicos:
+Nombre: Juan Burbano alvear
+Fecha Nacimiento: 14 de noviembre
+telefono: 3124783778
+Estado cuvil: Soltero
+Dirección recidencia: Leiva nariño.
+Profesión: Estudiante.

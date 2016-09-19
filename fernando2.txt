@@ -1,0 +1,7 @@
+Datos basicos:
+Nombre: Fernando Burbano Solarte
+Fecha Nacimiento: 16 de enero
+telefono: 3124540578
+Estado cuvil: Soltero
+Dirección recidencia: Calle 8a 17-37, esmeralda.
+Profesión: Estudiante.

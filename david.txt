@@ -1,0 +1,7 @@
+Datos basicos:
+Nombre: David Burbano Solarte
+Fecha Nacimiento: 21 de abril
+telefono: 3152134545
+Estado cuvil: Soltero
+Dirección recidencia: Leiva nariño.
+Profesión: Estudiante.
